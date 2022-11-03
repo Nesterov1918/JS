@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "JS-1",
+			"path": "../JS-1"
+		},
+		{
+			"name": "JS-2",
+			"path": "../JS-2"
+		}
+	],
+	"settings": {}
+}
